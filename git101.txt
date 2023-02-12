@@ -1,0 +1,31 @@
+git config --global --edit
+esc :wq
+mkdir Git 101
+cd Git101
+git init (initialises repo)
+git add <file>
+git commit -m "initial commit"
+
+if( first time ) {
+from github's site make new directory
+and copy commands then paste in cmd
+}
+
+else {
+git push
+or git push -f
+}
+
+git status
+git log
+git add .
+git checkout <hashcode>
+git checkout master
+git branch <name> {
+git branch dev
+git branch 
+gir checkout dev
+.gitignore
+}
+
+
